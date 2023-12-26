@@ -1,0 +1,17 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div id="substack-feed-embed"></div>
+
+<script>
+    window.SubstackFeedWidget = {
+        substackUrl: "{{ page.substack_id }}.substack.com",
+        posts: 20,
+        layout: "right",
+        hidden: ["premium", "comments"],
+    };
+</script>
+<script src="/assets/js/dist/substack_feed.min.js" async></script>
