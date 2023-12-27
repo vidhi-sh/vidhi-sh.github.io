@@ -1,6 +1,7 @@
 ---
 layout: post
 toc: true
+home: true
 ---
 
 # Hi, I'm Vidhi
