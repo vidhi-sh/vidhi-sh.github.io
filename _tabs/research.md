@@ -1,6 +1,6 @@
 ---
 layout: blog
-icon: na
+icon: fas fa-paper
 order: 1
 ---
 
