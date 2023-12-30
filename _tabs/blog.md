@@ -1,6 +1,6 @@
 ---
 layout: blog
-icon: fas fa-blog
+icon: fas fa-pencil
 order: 2
 substack_id: vidhis
 ---
