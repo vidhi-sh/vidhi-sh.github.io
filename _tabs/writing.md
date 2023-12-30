@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: writing
 icon: fas fa-pencil
 order: 2
 substack_id: vidhis
