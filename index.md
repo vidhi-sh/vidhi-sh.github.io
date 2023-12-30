@@ -4,12 +4,8 @@ toc: true
 home: true
 ---
 
-# Hi, I'm Vidhi
+# Hi, I'm Vidhi.
 
-Research 
+I live in Baroda. I'm an electrical engineer turned consultant turned researcher. 
 
-I'm currently working on studying the role of information in strategic settings. I am also interested in studying how .... 
-
-Other Stuff
-
-Occasionally, I dabble in some art and writing. 
+On occasion, I dabble in art and writing. In 2019, I illustrated a small graphic novel for Cactus Flower, BITS Pilani's annual literary magazine. 
