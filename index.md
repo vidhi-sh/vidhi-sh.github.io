@@ -6,18 +6,10 @@ home: true
 
 # Hi, I'm Vidhi
 
-I do economics stuff.
+Research 
 
-## Research
+I'm currently working on studying the role of information in strategic settings. I am also interested in studying how .... 
 
-My primary research interest in bla bla.
+Other Stuff
 
-## Publications
-
-1. This
-2. That
-
-## Conferences
-
-1. This
-2. That
+Occasionally, I dabble in some art and writing. 
