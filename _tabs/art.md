@@ -1,7 +1,7 @@
 ---
 layout: art
 icon: fas fa-paintbrush
-order: 2
+order: 3
 instas:
   - B0YWDDcJz5W
   - B1tZzGQpcgR
