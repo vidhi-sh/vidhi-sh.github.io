@@ -1,6 +1,6 @@
 ---
 layout: art
-icon: fas fa-paintbrush
+icon: fas fa-palette
 order: 3
 instas:
   - B0YWDDcJz5W
