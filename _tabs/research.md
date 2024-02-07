@@ -1,6 +1,6 @@
 ---
 layout: blog
-icon: fas fa-paper
+icon: fas fa-bookmark
 order: 1
 ---
 
