@@ -1,10 +1,8 @@
 ---
 layout: post
-toc: true
-home: true
+icon: fas fa-star
+order: 3
 ---
-
-# Hi, I'm Vidhi.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu augue efficitur, porta est a, efficitur justo. Morbi elementum tristique urna id tempor. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam interdum risus eu pharetra bibendum. Fusce cursus ipsum nulla, luctus convallis nunc faucibus a. Etiam mauris sem, congue quis pretium ut, tristique ac ligula. Duis dapibus orci eget mauris gravida ullamcorper. Aenean pharetra tincidunt ipsum, non tristique tortor vehicula in. Duis velit massa, euismod ut nibh at, vestibulum eleifend eros. Sed iaculis sem nec nunc dapibus viverra.
 
