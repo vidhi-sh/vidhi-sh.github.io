@@ -17,4 +17,4 @@ _Last updated on 8th February 2024._
 
 ---
 
-For my full CV, click [here]().
+For my full CV, click [here](https://vidhi-sh.github.io/cv/).
