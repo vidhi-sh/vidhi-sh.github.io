@@ -9,11 +9,12 @@ _Last updated on 8th February 2024._
 
 ## Education
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Master of Business Administration from the Indian Institute of Management, Ahmedabad <br> _August 2020 - April 2022_
+- Bachelor of Engineering in Electrical and Electronics from the Birla Institute of Technology and Science, Pilani <br> _August 2016 - May 2020_
 
 ## Employment
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- Senior Associate at the Boston Consulting Group <br> _April 2022 - January 2024_
 
 ---
 
